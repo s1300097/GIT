@@ -1,5 +1,5 @@
 // LINE developersのメッセージ送受信設定に記載のアクセストークン
-const LINE_TOKEN = 'D8eCa7BjGsNKFJz5zQSejx7SQxNCtsZ6A8X3yb1fj3cd3nKnVLDcAnAvF23QpZo6aD960WIasAxisYN2EsDbNnoxhE7Qtbk63JipFUo8PAR1qiVYZD6FiwJq2fdsnx9mJg2uWyPF8886h52BQF6wSAdB04t89/1O/w1cDnyilFU='; // Messaging API設定の一番下で発行できるLINE Botのアクセストークン（Channel Secretはいらないみたいです。）
+const LINE_TOKEN = 'damy'; // Messaging API設定の一番下で発行できるLINE Botのチャネルアクセストークン
 const LINE_URL = 'https://api.line.me/v2/bot/message/reply';
 const LINE_ENDPOINT = 'https://api.line.me/v2/bot/message/push';
 
